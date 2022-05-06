@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32050799896462473" />
+        <entry key="app/src/main/res/layout/activity_music_player.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/activity_my_playlists.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.22046121712500838" />
+        <entry key="app/src/main/res/layout/create_playlist.xml" value="0.22966139041215192" />
+        <entry key="app/src/main/res/layout/create_playlist_item.xml" value="0.34813922957146326" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.2252099576954566" />
+        <entry key="app/src/main/res/layout/playlist_item.xml" value="0.4732142857142857" />
+        <entry key="app/src/main/res/layout/recycler_item.xml" value="0.29358045420545753" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.146875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
